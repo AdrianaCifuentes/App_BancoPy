@@ -14,7 +14,7 @@ En la vida cotidiana, muchas personas enfrentan dificultades para comprender có
 BancoPy está estructurado para gestionar operaciones bancarias simples mediante un sistema interno que administra el saldo del usuario y procesa cada movimiento. La aplicación organiza sus funciones en un menú principal desde el cual se puede consultar el saldo, realizar depósitos o efectuar retiros. Cada operación es validada cuidadosamente: se impiden depósitos no válidos y se prohíben retiros que superen el saldo disponible. Los cambios se reflejan de inmediato, asegurando la integridad del monto actual. Esta estructura convierte a BancoPy en una herramienta eficiente para comprender el flujo de datos en una aplicación financiera, reforzando elementos como entradas de usuario, validaciones, actualización de variables y control de opciones.
 
 # CARACTERÍSTICAS CLAVES DEL SITIO / APP
-- Menú principal organizado con las opciones principales del sistema.
+- Menú principal organizado con las funciones principales del sistema.
 - Consulta de saldo en tiempo real.
 - Función de depósitos con actualización inmediata del saldo.
 - Retiros con validación de fondos suficientes.
