@@ -22,5 +22,7 @@ BancoPy está estructurado para gestionar operaciones bancarias simples mediante
 - Flujo sencillo que guía al usuario paso a paso.
 - Lógica en Python ideal para fines educativos y de simulación bancaria.
 
+# DIAGRAMA DE ARQUITECTURA
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1aca97f5-fff5-4a98-bd14-307fcbc376cd" />
 
 
